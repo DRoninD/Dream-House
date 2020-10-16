@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10000,
+    "editor.fontSize": 16,
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 60
+}
